@@ -3,3 +3,4 @@ uuid = "a31f3b02-3745-45e6-b267-9f1e845fb543"
 repo = "https://github.com/disberd/PersonalJuliaRegistry.git"
 
 [packages]
+ed5d0301-4775-4676-b788-cf71e66ff8ed = { name = "PlutoUtils", path = "P/PlutoUtils" }
