@@ -27,3 +27,7 @@ PlutoDevMacros = "a0499f29-c39b-4c5c-807c-88074221b949"
 
 ["0.4.9-0.4"]
 PlutoHooks = "0ff47ea0-7a50-410d-8455-4348d5de0774"
+
+["0.5.2-0"]
+OrderedCollections = "bac558e1-5e72-5ebc-8fee-abe8a469f55d"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
