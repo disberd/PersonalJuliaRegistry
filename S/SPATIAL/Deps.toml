@@ -17,3 +17,6 @@ SplitApplyCombine = "03a91e81-4c3e-53e1-a0a4-9c0c8f19dd66"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 TelecomUtils = "0c499ce9-5070-43f6-85c8-6d9cb66e1eb8"
 WhereTraits = "c9d4e05b-6318-49cb-9b56-e0e2b0ceadd8"
+
+["0.1.4-0"]
+Distributed = "8ba89e20-285c-5b6f-9357-94700520ee1b"
