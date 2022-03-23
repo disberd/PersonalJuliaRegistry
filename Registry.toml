@@ -5,7 +5,5 @@ repo = "https://github.com/disberd/PersonalJuliaRegistry.git"
 [packages]
 0c499ce9-5070-43f6-85c8-6d9cb66e1eb8 = { name = "TelecomUtils", path = "T/TelecomUtils" }
 757d3722-3ed7-41cf-92b5-8fcb89a722d0 = { name = "ActiveAntenna", path = "A/ActiveAntenna" }
-933edf66-562e-4494-9e5f-31d7e8b9849e = { name = "DarkMode", path = "D/DarkMode" }
-a0499f29-c39b-4c5c-807c-88074221b949 = { name = "PlutoDevMacros", path = "P/PlutoDevMacros" }
 b17e8be3-22c4-4c67-8193-f7322de64861 = { name = "SPATIAL", path = "S/SPATIAL" }
 ed5d0301-4775-4676-b788-cf71e66ff8ed = { name = "PlutoUtils", path = "P/PlutoUtils" }
