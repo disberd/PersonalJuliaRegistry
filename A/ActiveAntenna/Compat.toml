@@ -2,5 +2,10 @@
 julia = "1.6.2-1"
 
 ["0.2-0"]
-PlutoDevMacros = "0.4.5-0.4"
 TelecomUtils = "0.1.17-0.1"
+
+["0.2-0.2.2"]
+PlutoDevMacros = "0.4.5-0.4"
+
+["0.2.3-0"]
+PlutoDevMacros = "0.4.5-1"
