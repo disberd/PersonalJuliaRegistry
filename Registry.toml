@@ -7,3 +7,4 @@ repo = "https://github.com/disberd/PersonalJuliaRegistry.git"
 757d3722-3ed7-41cf-92b5-8fcb89a722d0 = { name = "ActiveAntenna", path = "A/ActiveAntenna" }
 b17e8be3-22c4-4c67-8193-f7322de64861 = { name = "SPATIAL", path = "S/SPATIAL" }
 ed5d0301-4775-4676-b788-cf71e66ff8ed = { name = "PlutoUtils", path = "P/PlutoUtils" }
+ee40d4b5-31c3-4fe2-b6cc-5ac7adf7f414 = { name = "CountriesBorders", path = "C/CountriesBorders" }

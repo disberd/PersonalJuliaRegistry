@@ -1,0 +1,6 @@
+[0]
+GeoInterface = "1"
+GeoTables = "1"
+Meshes = "0.28.1-0.28"
+PlotlyBase = "0.8.19-0.8"
+Tables = "1"
